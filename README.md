@@ -1,4 +1,4 @@
-# Campusradar.de📍
+# Campus-radar.de📍
 
 **every FH & HAW in Germany. one map. find your campus.**
 
